@@ -1,2 +1,2 @@
 # Technical-Notes
-A place for research.
+A place for research and study.

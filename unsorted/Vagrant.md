@@ -38,3 +38,10 @@ config.vm.provision "ansible_local" do |ansible|
 end
 ```
 
+
+## Installing the Vagrant CLI
+
+Dependencies:
+- [[Ruby]] (use a Ruby Version Manager like rbenv)
+
+

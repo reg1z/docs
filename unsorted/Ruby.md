@@ -21,3 +21,7 @@ echo $PATH | grep --color=auto "$(rbenv root)/shims"
 ### `asdf`
 - [asdf github repo](https://github.com/asdf-vm/asdf)
 
+Message these guys:
+![[Pasted image 20250218195351.png]]
+
+

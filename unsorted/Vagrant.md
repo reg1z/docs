@@ -39,9 +39,26 @@ end
 ```
 
 
-## Installing the Vagrant CLI
 
-Dependencies:
-- [[Ruby]] (use a Ruby Version Manager like rbenv)
+## `vagrant` command
+
+- Use `vagrant init <target box>` to generate a new *Vagrantfile*.
 
 
+- `vagrant ssh` → Convenient ssh into your new environment that uses pre-configured SSH keys made during the pipeline's execution.
+
+- `vagrant up` → Turn on your configured environment. This executes steps defined in the Vagrantfile of the current working directory.
+	- If the **box** (VM image) used is sourced remotely, a copy will be downloaded for use across all Vagrantfiles configured for it.
+- `vagrant suspend` → It's suspend.
+- `vagrant resume` → Resume from suspended state.
+- `vagrant halt` → It's shutdown.
+- `vagrant destroy` → Completely delete the current environment/machine
+
+### Provisioning Commands
+- re-provisioning
+	- 
+
+## Tips when writing provisioning scripts
+- Make your scripts are [[idempotent]]. If ran more than once, the state of your environment should be the same as if you'd ran it only once.
+
+[[Vagrant - Creating Boxes]]

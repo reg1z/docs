@@ -14,5 +14,6 @@
 		- **Ansible**
 		- **Vagrant**
 		- IaC pipeline vulnerabilities
+- **Glove80 + Glorious Engrammer***
 
 

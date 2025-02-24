@@ -6,3 +6,4 @@ See Vagrant Docs:
 - [Creating a New Vagrant Box for Vagrant Cloud](https://developer.hashicorp.com/vagrant/vagrant-cloud/boxes/create)
 
 ⭐ With Vagrant, QEMU remains the best option to emulate alternate CPU architectures. This requires a plugin.
+

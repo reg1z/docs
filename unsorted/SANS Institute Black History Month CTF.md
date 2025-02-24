@@ -26,3 +26,14 @@ Tools tried
 	- Dogbolt: https://dogbolt.org/
 	- `strings`
 	- `binwalk`
+
+---
+
+Problems:
+- nm03 stream
+- cm01 base64 encoded ELF binary
+
+
+
+
+

@@ -15,5 +15,7 @@
 		- **Vagrant**
 		- IaC pipeline vulnerabilities
 - **Glove80 + Glorious Engrammer***
-
+- Other
+	- The many methods of closing and opening ports across different Linux/unix distros
+	- 
 

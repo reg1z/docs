@@ -1,7 +1,6 @@
 # Presentations
-- [[Dev Productivity]]
-- [[Systemd Overview]]
-
+- [Developer Productivity](Developer%20Productivity.md)
+- [Systemd Overview](Systemd%20Overview.md)
 ## Ideas
 - ***Series on individual core CLI utilities - "Command-line Cornerstones"***
 	- **ssh** + its subcommands

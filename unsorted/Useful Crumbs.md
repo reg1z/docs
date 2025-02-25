@@ -3,7 +3,8 @@
 ## Misc.
 - [Git Submodules](Git%20Submodules.md) - *Yo dawg I heard u like git repos...*
 - Github Actions
-- Github Actions | Workflow Syntax → https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions
+	- Github Actions | Understand Github Actions → https://docs.github.com/en/actions/about-github-actions/understanding-github-actions
+	- Github Actions | Workflow Syntax → https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions
 
 ## IaC.
 - [Vagrant](Vagrant.md)

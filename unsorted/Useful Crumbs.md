@@ -1,12 +1,13 @@
 # Useful Crumbs
 
-Misc.
+## Misc.
 - [Git Submodules](Git%20Submodules.md) - *Yo dawg I heard u like git repos...*
+- Github Actions
+- Github Actions | Workflow Syntax → https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions
 
-IaC.
+## IaC.
 - [Vagrant](Vagrant.md)
 - [Ansible](Ansible.md)
 
-
-Programming and Scripting
+## Programming and Scripting
 - [Ruby](Ruby.md)

@@ -15,7 +15,7 @@
 Checking that rbenv itself + rbenv shims are in your PATH
 ```bash
 which -a rbenv
-echo $PATH | g[[Ruby]]rep --color=auto "$(rbenv root)/shims"
+echo $PATH | g[Ruby](.md)rep --color=auto "$(rbenv root)/shims"
 ```
 
 ### `asdf`

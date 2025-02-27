@@ -1,3 +1,7 @@
+---
+tags:
+  - terminology
+---
 # Idempotent
 
 > [!quote]+ Onelook Reverse Dictionary

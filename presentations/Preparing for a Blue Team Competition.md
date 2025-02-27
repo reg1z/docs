@@ -28,3 +28,77 @@ The NCAE is a competetion targeted at those new to cybersecurity competitions. S
 			- Opening/closing ports
 			- Routing
 	- Windows 
+
+---
+
+```
+Echotango + w33t notes:
+
+- You are root 
+- There is no GUI.  
+- There is no locking yourself out bcuz proxmox 
+- Ssh 
+    - Ssh config 
+    - Ssh proxying 
+- Common service configs 
+    - Nginx 
+    - Databases (SQL, postgres, flask) 
+    - Bind DNS 
+    - Certificate services – certbot 
+        - --dry-run DO THIS BEFORE RATE LIMITS IMPOSED 
+- Monitoring 
+    - Syslog? 
+    - Wazuh? Maybe not 
+- Ansible 
+    - Add hosts to ansible inventory 
+- `lsof -i –n` 
+- `Lsof –p <process id> #open file with process id of <>`
+- Ls /proc to see the process id folder 
+- Run srtrings on exe file on memory  
+- Pay attention to where the file was invoked at to look in the `/proc/<processid>/cmdline` ##cat this file 
+- Come up with a triage of IoCs.  
+- Search all hosts for IoCs. For the SAME IoCs you've found on individual hosts. 
+- Runbook?? For IoCs 
+- Netstat and ss comand are looking for ioc 
+- IPtables deep dive wouldn’t be a bad idea. Nmap scan deturrent  
+    - Localhost firewall per host??? 
+    - We need a way to share passwords  
+    - Ssh keys?? Add pub key to auth_keys 
+    - Practice enviroment???? 
+    - Digital ocean for one box for the enviorment AZure terraform few bucks... 
+
+Discord 
+
+Black team – they are there to help remember this is a beginner level comp and you are here to learn they are here to teach  
+
+Red team – they are there to make fun with you   
+
+Potential Roles 
+- Someone watching the attacks 
+- Could a less experienced team member "get the 3 checks" as fast as possible? 
+    
+
+Questions 
+- How do you profile the scoring engine? 
+    - Looking at http logs 
+    - Looking for keywords for certain exploits ---> drop those packets 
+
+Links: 
+- https://overthewire.org/wargames/bandit/
+- https://redsiege.com/tools-techniques/2019/05/logging-passwords-on-linux/
+
+Misc. Tips 
+
+- Lsof command 
+- Absolute Musts: 
+    - Take backups immediately 
+    - User / group setup script 
+        - Memorize your own unique passwords 
+    - Least privileges 
+        - File/folder roles 
+    - Vulnerability Scan 
+    - Backups   
+    - Monitoring 
+        - Wazuh – (anihacc had set up something) 
+    - SSH config
+```

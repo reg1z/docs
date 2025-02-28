@@ -12,7 +12,7 @@
 - Select "SPICE" from the drop-down in proxmox for the target host you'd like to connect to.
 - A file should automatically be downloaded.
 - Double-click this file. If virt-viewer is installed, it should automatically connect to the cloud host via SPICE.
-![Pasted image 20250222152539](../assets/images/Pasted%20image%2020250222152539.png)
+![Pasted image 20250222152539](../../assets/images/Pasted%20image%2020250222152539.png)
 
 
 ## **ON GAME DAY:**

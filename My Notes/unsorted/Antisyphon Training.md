@@ -81,7 +81,7 @@ This method is about implementing controls that automatically take care of multi
 	- https://www.antisyphontraining.com/course/enterprise-attacker-emulation-and-c2-implant-development-with-joff-thyer/
 - Unicorn https://github.com/trustedsec/unicorn
 - Where can you execute programs from?
-	- ![Pasted image 20250224094731](../assets/images/Pasted%20image%2020250224094731.png)
+	- ![Pasted image 20250224094731](../../assets/images/Pasted%20image%2020250224094731.png)
 	- Where SHOULD programs execute?
 - Establish custom rules so that certain publishers can execute on your system (as per Windows verified publishers, etc.)
 	- Applocker

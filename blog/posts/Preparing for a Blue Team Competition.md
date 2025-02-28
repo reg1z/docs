@@ -13,21 +13,21 @@ date: 2025-02-27
 > This article focuses on blue team preparations in the context of **Linux-centric Environments**. It does not provide much blue team advice specific to Windows environments.
 
 > [!note]+ My preparation notes
-> See [NCAE 2025](../../NCAE%202025%20Preparation%20🛡️/NCAE%202025.md) for comprehensive links to my prepatory documents.
+> See [NCAE 2025](../../My%20Notes/NCAE%202025%20Preparation%20🛡️/NCAE%202025.md) for comprehensive links to my prepatory documents.
 
 This past February, I began volunteering in WGU's Cyber Club. This afforded the opportunity to participate in the [2025 NCAE Cybergames](https://www.ncaecybergames.org/). It's a single-day blue team-oriented competition aimed at first-time competitors. This is my first experience taking part in a team-based defensive engagement like this.
 
-As someone with a previous background in software development, I like to think of myself as fairly capable at the terminal—and with tech in general—but nothing can really prepare you for the open-endedness of a competition like this. There are a lot of approaches you can take with it, each requiring highly specific knowledge. It was difficult for me to come up with any kind of "comprehensive" study plan.
+As someone with a previous background in software development, I like to think of myself as fairly capable at the terminal—and with tech in general—but nothing can really prepare you for the open-endedness of a competition like this. There are a lot of approaches you can take, each requiring specific knowledge one might connect the dots on. Because of this, It was difficult for me to come up with any kind of "comprehensive" study plan.
 
-So, on top of my own I sought the help of others. Here's what they told me. Keep in mind, this competition mostly uses Linux hosts. This article doesn't offer much Windows-specific advice.
+So, I sought the help of others. Here's what they told me. Keep in mind, this competition mostly uses Linux hosts. This article doesn't offer much Windows-specific advice.
 
 ## General Tips
-- When you have *lots of options*, don't consider *too many* of them all at once. You will experience [Choice Paralysis](../../unsorted/Choice%20Paralysis.md). At times it's best to pick a certain tool just to get experience with it. If it's not working out, go to the next thing on the list.
+- When you have *lots of options*, don't consider *too many* of them all at once. You will experience [Choice Paralysis](../../My%20Notes/unsorted/Choice%20Paralysis.md). At times it's best to pick a certain tool just to get experience with it. If it's not working out, go to the next thing on the list.
 
 ## Core Skills
 First and foremost
 
-Keep in mind that this entire list may be more or less than what you're after. The NCAE has its own YouTube playlist that covers fundamental linux skills.
+Keep in mind that this entire list may be more or less than what you're after. [The NCAE has its own YouTube playlist](https://www.ncaecybergames.org/tutorials/) that covers fundamental linux skills. It is comprehensive, but can take awile to 
 
 ### Research Skills
 Not necessarily formal research. Knowing how to quickly and tactically prompt search engines and various other tools can get you needed information fast. Knowing when to question results is just as important.

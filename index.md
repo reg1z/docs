@@ -1,4 +1,7 @@
 # reg1z
+
+![whitehat](assets/images/whitehat.png)
+
 This is my personal site. A place for research and study, personal pragmatism emphasized. Though hopefully I've left a few useful things for you.
 
 Here you can find my blog and personal research notes on whatever I happen to be focused on.

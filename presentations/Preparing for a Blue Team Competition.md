@@ -1,7 +1,9 @@
 ---
 tags:
   - cybersecurity
-  - BlueTeam
+  - blueteam
+  - competitions
+  - NCAE
 date-created: 2025-02-27
 ---
 # Preparing for a Blue Team Competition as a Beginner

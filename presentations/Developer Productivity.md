@@ -1,3 +1,8 @@
+---
+tags:
+  - vim
+date: 2025-02-11
+---
 # Developer Productivity
 
 *(What's a better term for the title here? Computer productivity? Sounds too generic)*

@@ -4,44 +4,50 @@ tags:
   - blueteam
   - competitions
   - NCAE
-date-created: 2025-02-27
+  - linux
+date: 2025-02-27
 ---
 # Preparing for a Blue Team Competition as a Beginner
 
+> [!warning]+ Notice
+> This article focuses on blue team preparations in the context of **Linux-centric Environments**. It does not provide much blue team advice specific to Windows environments.
 
-> [!info]- My preparation notes
-> See [NCAE 2025](../NCAE%202025%20Preparation%20🛡️/NCAE%202025.md) for comprehensive links to my prepatory documents.
+> [!note]+ My preparation notes
+> See [NCAE 2025](../../NCAE%202025%20Preparation%20🛡️/NCAE%202025.md) for comprehensive links to my prepatory documents.
 
 This past February, I began volunteering in WGU's Cyber Club. This afforded the opportunity to participate in the [2025 NCAE Cybergames](https://www.ncaecybergames.org/). It's a single-day blue team-oriented competition aimed at first-time competitors. This is my first experience taking part in a team-based defensive engagement like this.
 
 As someone with a previous background in software development, I like to think of myself as fairly capable at the terminal—and with tech in general—but nothing can really prepare you for the open-endedness of a competition like this. There are a lot of approaches you can take with it, each requiring highly specific knowledge. It was difficult for me to come up with any kind of "comprehensive" study plan.
 
-So, on top of my own I sought the help of others. Here's what they told me.
+So, on top of my own I sought the help of others. Here's what they told me. Keep in mind, this competition mostly uses Linux hosts. This article doesn't offer much Windows-specific advice.
 
 ## General Tips
-- When you have *lots of options*, don't consider *too many* tools for the job all at once. You will experience [Choice Paralysis](../unsorted/Choice%20Paralysis.md). At times it's best to pick something just to get experience with it. If it's not working out, go to the next thing on the list.
+- When you have *lots of options*, don't consider *too many* of them all at once. You will experience [Choice Paralysis](../../unsorted/Choice%20Paralysis.md). At times it's best to pick a certain tool just to get experience with it. If it's not working out, go to the next thing on the list.
 
-## Key Skills
-There are **key skills** one should be familiarized with before expecting *competitive* results in a Red vs. Blue team engagement. I am not saying one *shouldn't compete if the skills aren't yet in their toolbelt*—these engagements are great ways to acquire them—but, if you plan to *win* preparation, study, and regular practice are an absolute must.
+## Core Skills
+First and foremost
 
-Keep in mind that this entire list may be more or less than what you're after. The NCAE has its own YouTube playlist that covers 
+Keep in mind that this entire list may be more or less than what you're after. The NCAE has its own YouTube playlist that covers fundamental linux skills.
 
-- **Research Skills.** Not necessarily academic research. Knowing how to tactically prompt search engines and various AI tools can get you information you need fast. Knowing when to question results is just as important.
-- There are several widely known "core" sites participants frequent.
-- OS / Environment Proficiency
-	- Linux Specific
-		- Navigating the Linux Command-line and File structure
-		- Bash syntax
-		- Common commands
-		- Service configuration
-			- systemctl / systemd
-		- Networking in Linux
-			- DNS
-			- Opening/closing ports
-			- Routing
+### Research Skills
+Not necessarily formal research. Knowing how to quickly and tactically prompt search engines and various other tools can get you needed information fast. Knowing when to question results is just as important.
+
+### Linux Fundamentials
+- **Linux**
+	- Navigating the Linux Command-line and File structure
+	- Bash syntax
+	- Common commands
+	- Service configuration
+		- systemctl / systemd
+	- Networking in Linux
+		- DNS
+		- Opening/closing ports
+		- Routing
 	- Windows 
 
----
+
+## Gaining a Competitive Edge
+There are **key skills** one should be familiarized with before expecting *competitive* results in an engagement. I am not saying one *shouldn't compete if the skills aren't yet in their toolbelt*—these engagements are great ways to acquire them—but, if you plan to *win* preparation, study, and regular practice are an absolute must.
 
 ## Temp notes
 Echotango + w33t notes:

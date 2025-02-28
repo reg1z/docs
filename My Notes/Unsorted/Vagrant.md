@@ -5,7 +5,7 @@
 ## Links
 
 ### Related:
-- [On-Premises IaC](../challenges%20and%20ctfs%20⚔️/tryhackme/rooms/On-Premises%20IaC.md)
+- [On-Premises IaC](../Challenges%20and%20CTFs%20⚔️/tryhackme/rooms/On-Premises%20IaC.md)
 - [Ansible](Ansible.md)
 
 ### Projects using vagrant:
@@ -13,7 +13,7 @@
 - [Game of Active Directory](https://orange-cyberdefense.github.io/GOAD/) (GOAD) "...is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques..."
 
 ## Key Points
-*(Table is from tryhackme. See [On-Premises IaC](../challenges%20and%20ctfs%20⚔️/tryhackme/rooms/On-Premises%20IaC.md))*
+*(Table is from tryhackme. See [On-Premises IaC](../Challenges%20and%20CTFs%20⚔️/tryhackme/rooms/On-Premises%20IaC.md))*
 
 | Term        | Definition                                                                                                                                                                                                               |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -59,6 +59,6 @@ end
 	- 
 
 ## Tips when writing provisioning scripts
-- Make your scripts are [idempotent](../terminology/idempotent.md). If ran more than once, the state of your environment should be the same as if you'd ran it only once.
+- Make your scripts are [idempotent](../Terminology/idempotent.md). If ran more than once, the state of your environment should be the same as if you'd ran it only once.
 
 [Vagrant - Creating Boxes](Vagrant%20-%20Creating%20Boxes.md)

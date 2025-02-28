@@ -22,7 +22,7 @@ As someone with a previous background in software development, I like to think o
 So, I sought the help of others. Here's what they told me. Keep in mind, this competition mostly uses Linux hosts. This article doesn't offer much Windows-specific advice.
 
 ## General Tips
-- When you have *lots of options*, don't consider *too many* of them all at once. You will experience [Choice Paralysis](../../My%20Notes/unsorted/Choice%20Paralysis.md). At times it's best to pick a certain tool just to get experience with it. If it's not working out, go to the next thing on the list.
+- When you have *lots of options*, don't consider *too many* of them all at once. You will experience [Choice Paralysis](../../My%20Notes/Unsorted/Choice%20Paralysis.md). At times it's best to pick a certain tool just to get experience with it. If it's not working out, go to the next thing on the list.
 
 ## Core Skills
 First and foremost

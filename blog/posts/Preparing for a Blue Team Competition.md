@@ -25,12 +25,22 @@ So, in addition to my own research, I sought the help of others. Here's what the
 
 ## Core Skills
 
-### 1 - Research / OSINT Skills
+### 0) Research / OSINT Skills
 Knowing how to quickly and tactically prompt search engines and various other tools can get you needed information fast. Knowing when to question results is just as important. This isn't "formal" research, rather it's the proverbial "google-fu."
 
 When you don't know what something, you should be prepared to figure it out on-the-fly.
 
-### 2 - Linux Fundamentials
+### 1) Conceptual Knowledge
+These include fundamental concepts and/or frameworks within the fields of Network and Security. Without at least a surface level understanding of these, you might find it difficult to communicate with team members about specific elements of the engagement.
+
+- **The TCP/IP Model**
+	- The OSI Model, while popular, is not how the Internet actually works (ask John Strand).
+- **Least Privilege**
+- **System Monitoring**
+- **Network Monitoring**
+- ...
+
+### 2) Linux Fundamentials
 In a competition like this, one will feel dead in the water without some rudimentary knowledge of the Linux command-line. *Ideally*, you'll have some passing knowledge of the general system as a whole.
 
 I've done my best to order them in by priority.
@@ -64,7 +74,7 @@ I've done my best to order them in by priority.
 	- Routing
 7. ...
 
-### 3 - Knowledge of Communication Protocols
+### 3) Knowledge of Communication Protocols
 A few of the previously mentioned Linux skills require some familiarity with widely used communication protocols. If you're contributing to your team's Network Configurations, it will be crucial to have an understanding of the protocols you'll be using. This will usually be one or more of the following. **Note:** *A comprehensive knowledge of each protocol IS NOT required—you just need to know enough to acquire the skills necessary to protect your environment*.
 
 - No matter what, you should know what these are.
@@ -85,14 +95,6 @@ A few of the previously mentioned Linux skills require some familiarity with wid
 	- **SMB** → Server Message Block
 	- **Syslog**
 	- ...
-
-### Conceptual Knowledge
-- **The TCP/IP Model**
-	- The OSI Model, while popular, is not how the Internet actually works (ask John Strand).
-- **Least Privilege**
-- **System Monitoring**
-- **Network Monitoring**
-- ...
 
 ## Gaining a Competitive Edge
 

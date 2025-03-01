@@ -43,7 +43,7 @@ These include fundamental concepts and/or frameworks within the fields of Networ
 ### 2) Linux Fundamentials
 In a competition like this, one will feel dead in the water without some rudimentary knowledge of the Linux command-line. *Ideally*, you'll have some passing knowledge of the general system as a whole.
 
-I've done my best to order them in by priority.
+I've done my best to order them by priority.
 
 1. **Navigating the Linux Command-line and File structure**
 	- Basic filesystem navigation via terminal
@@ -53,6 +53,7 @@ I've done my best to order them in by priority.
 		- `cat` → print file contents to stdout
 		- `cp` → copy files
 		- mv → move (and/or rename) files
+	- Basic understanding of the [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 2. **Bash**
 	- Overall syntax
 	- Operators

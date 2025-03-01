@@ -28,7 +28,7 @@ So, in addition to my own research, I sought the help of others. Here's what the
 ### 0) Research / OSINT Skills
 Knowing how to quickly and tactically prompt search engines and various other tools can get you needed information fast. Knowing when to question results is just as important. This isn't "formal" research, rather it's the proverbial "google-fu."
 
-When you don't know what something, you should be prepared to figure it out on-the-fly.
+When you don't know something, you should be prepared to figure it out on-the-fly.
 
 ### 1) Conceptual Knowledge
 These include fundamental concepts and/or frameworks within the fields of Network and Security. Without at least a surface level understanding of these, you might find it difficult to communicate with team members about specific elements of the engagement.

@@ -17,7 +17,7 @@ As someone with a previous background in software development, I like to think o
 
 So, in addition to my own research, I sought the help of others. Here's what they told me. Keep in mind, this competition mostly uses Linux hosts. I do not give Windows-specific advice in this article.
 
-> [!tip]+ Credit
+> [!tip]+ Credits
 > Shoutout to these folks for taking the time to offer their expertise!
 > 
 > - **w33t** → [https://w33t.io/](https://w33t.io/)
@@ -35,7 +35,7 @@ In a competition like this, one will feel dead in the water without some rudimen
 
 I've done my best to order them in by priority.
 
-1. Navigating the Linux Command-line and File structure
+1. **Navigating the Linux Command-line and File structure**
 	- Basic filesystem navigation via terminal
 		- `cd` → change directory
 		- `ls` → list files
@@ -43,21 +43,21 @@ I've done my best to order them in by priority.
 		- `cat` → print file contents to stdout
 		- `cp` → copy files
 		- mv → move (and/or rename) files
-2. Bash
+2. **Bash**
 	- Overall syntax
 	- Operators
 	- stdout VS stdin VS stderr
 	- Input & output redirection
 	- Piping input & output
-3. Users and Groups; `sudo`
-4. Process management
+3. **Users and Groups; `sudo`**
+4. **Process management**
 	- `ps` → list processes
 	- `kill` → kill target process
-5. Service configuration
+5. **Service configuration**
 	- systemctl
 	- systemd (to a minimal extent)
 	- ...
-6. Networking and Protocols
+6. **Networking and Protocols**
 	- See below: Knowledge of protocols
 	- Opening/closing ports.
 	- DNS Configuration. The NCAE uses `bind` to manage DNS in their tutorial videos.

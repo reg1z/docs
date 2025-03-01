@@ -9,28 +9,19 @@ date: 2025-02-27
 ---
 # Preparing for a Blue Team Competition as a Beginner
 
+This past February, I began volunteering in WGU's Cyber Club. This afforded the opportunity to participate in the [2025 NCAE Cybergames](https://www.ncaecybergames.org/). It's a single-day blue team-oriented competition aimed at first-time competitors. This is one of my first experiences taking part in a team-based defensive engagement like this. Our teams have yet to compete, but have been hard at work preparing.
+
+[The NCAE has its own YouTube playlist](https://www.ncaecybergames.org/tutorials/) that covers fundamental Linux skills. It is high-level, comprehensive, and lengthy. While it's a great introduction, it doesn't give obvious hints as to the vast amount of other knowledge a team might want to consider after watching.
+
+As someone with a previous background in software development, I like to think of myself as fairly capable at the terminal—and with tech in general—but nothing *truly* prepared me for the open-endedness of all the potential skills a team could bring in. There are an overwhelming amount of approaches one could take. In essence, it was difficult for me to come up with any kind of "comprehensive" practice plan.
+
+So, in addition to my own research, I sought the help of others. Here's what they told me. Keep in mind, this competition mostly uses Linux hosts. I do not give Windows-specific advice in this article.
+
 > [!tip]+ Credit
 > Shoutout to these folks for taking the time to offer their expertise!
 > 
 > - **w33t** → [https://w33t.io/](https://w33t.io/)
 > - **echotango** → (the Internet)
-
-> [!warning]+ Notice
-> This article focuses on blue team preparations in the context of **Linux-centric Environments**. It does not provide much advice specific to Windows environments.
-
-> [!note]+ My preparation notes
-> See my [NCAE 2025](../../My%20Notes/NCAE%202025%20Preparation%20🛡️/NCAE%202025.md) page for comprehensive links to my prepatory documents.
-
-This past February, I began volunteering in WGU's Cyber Club. This afforded the opportunity to participate in the [2025 NCAE Cybergames](https://www.ncaecybergames.org/). It's a single-day blue team-oriented competition aimed at first-time competitors. This is one of my first experiences taking part in a team-based defensive engagement like this. Our teams have yet to participate, but have been hard at work preparing.
-
-As someone with a previous background in software development, I like to think of myself as fairly capable at the terminal—and with tech in general—but nothing can truly prepare you for the open-endedness of every relevant skill. There are an overwhelming amount of approaches you can take. In essence, it was difficult for me to come up with any kind of "comprehensive" study plan.
-
-So, I sought the help of others. Here's what they told me. Keep in mind, this competition mostly uses Linux hosts. I do not give Windows-specific advice in this article
-
-## General Tips
-- When you have *lots of options* to pick from, don't consider *too many* all at once. You will experience [Choice Paralysis](../../My%20Notes/Unsorted/Choice%20Paralysis.md). At times it's best to pick a certain tool just to get experience with it. If it's not working out, go to the next thing on the list.
-- [The NCAE has its own YouTube playlist](https://www.ncaecybergames.org/tutorials/) that covers fundamental Linux skills. It is high-level, comprehensive, and lengthy.
-- The Black Team is usually there to help when needed.
 
 ## Core Skills
 
@@ -64,13 +55,14 @@ I've done my best to order them in by priority.
 	- `kill` → kill target process
 5. Service configuration
 	- systemctl
-	- and many more...
+	- systemd (to a minimal extent)
+	- ...
 6. Networking and Protocols
 	- See below: Knowledge of protocols
 	- Opening/closing ports.
 	- DNS Configuration. The NCAE uses `bind` to manage DNS in their tutorial videos.
 	- Routing
-7. Other common commands...
+7. ...
 
 ### 3 - Knowledge of Communication Protocols
 A few of the previously mentioned Linux skills require some familiarity with widely used communication protocols. If you're contributing to your team's Network Configurations, it will be crucial to have an understanding of the protocols you'll be using. This will usually be one or more of the following. **Note:** *A comprehensive knowledge of each protocol IS NOT required—you just need to know enough to acquire the skills necessary to protect your environment*.
@@ -86,12 +78,13 @@ A few of the previously mentioned Linux skills require some familiarity with wid
 	- **DNS** → Domain Name System protocol
 	- **FTP** → File Transfer Protocol
 	- **SSL/TLS** → Secure Sockets Layer / Transport Layer Security
+	- ...
 
 - These may not always apply. Depends on the scenario's design.
 	- **NFS** → Network File System
 	- **SMB** → Server Message Block
 	- **Syslog**
-	- and more...
+	- ...
 
 ### Conceptual Knowledge
 - **The TCP/IP Model**
@@ -99,7 +92,7 @@ A few of the previously mentioned Linux skills require some familiarity with wid
 - **Least Privilege**
 - **System Monitoring**
 - **Network Monitoring**
-- 
+- ...
 
 ## Gaining a Competitive Edge
 
@@ -112,7 +105,6 @@ In the case of the NCAE, teams are given external network access. There are few 
 Don't assume you'll be able to bring in *any* cutting edge defensive solution though. You usually don't know what the state of each endpoint in your environment will be. The NCAE's practice environment (the "Mini Hack") is configured to use Kali Linux 2021.1 as its attack box. You wouldn't be able to easily install additional tools on such a host because Kali is a rolling distribution and its package repositories will outright refuse any request to download something to your insecure system. If you *could* download packages safely, there would be no gaurantee they'd be compatible, since your system is so out-of-date in the first place. This is all seemingly by design, of course. The event coordinators WANT you to get creative. So much so that in cases like this, they will downright FORCE you to.
 
 Realizing this, our teams started brainstorming. We also sought the advice of some awesome security professionals who were more than willing to give their advice. Thank you to w33t and echotango!
-
 
 ### Ideas Generated
 This is a growing list. There is no particular order.
@@ -176,6 +168,11 @@ Work-in-Progress. A series of consecutive steps to carry out upon connecting to 
 	- If a new vulnerability is discovered on a single host, be sure to check all hosts for it.
 - Setup syslog or other chosen network monitoring solution. Perhaps use a pre-built script/playbook after having accounted for all hosts.
 
+#### General Tips
+- When you have *lots of options* to pick from, don't consider *too many* all at once. You will experience [Choice Paralysis](../../My%20Notes/Unsorted/Choice%20Paralysis.md). At times it's best to pick a certain tool just to get experience with it. If it's not working out, go to the next thing on the list.
+- The Black Team is usually there to help when needed.
 
+## Fin
+That's all I have for now, but I'll be updating the blog as preparations continue. You can see my [NCAE 2025](../../My%20Notes/NCAE%202025%20Preparation%20🛡️/NCAE%202025.md) page for comprehensive links to my prepatory documents.
 
-
+There is *much* more knowledge I could cover in preparing for an event like this. But, as is always the case in security, to stay up-to-speed you'll always need to be learning. Security is never a gaurantee. All you can do build the best castle you can. Repair your walls as needed, and hope your enemies don't bring a trebuchet.

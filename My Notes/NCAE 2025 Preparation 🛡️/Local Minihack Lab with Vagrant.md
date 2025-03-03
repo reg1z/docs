@@ -44,11 +44,11 @@ This enables the following:
 
 ## After installing required dependencies...
 
-**You have two options for obtaining the script / vagrantfile:**
-1. Download the zip of the repository and unpack it: [https://github.com/reg1z/Local-Minihack](https://github.com/reg1z/Local-Minihack) **OR**
-2. Clone the repo with git: `git clone https://github.com/reg1z/Local-Minihack`
+**Obtain the script by doing 1 of the following:**
+- Download the zip of the repository and unpack it: [https://github.com/reg1z/Local-Minihack](https://github.com/reg1z/Local-Minihack) **OR**
+- Clone the repo with git: `git clone https://github.com/reg1z/Local-Minihack`
 
-> [!warning]+ Notice!
+> [!warning]+ NOTICE
 > > ==**GUI** IS THE ONLY WORKING FLAVOR RIGHT NOW==
 >
 > **There are ~~2~~ 1 flavors of the script you can use: **
@@ -83,6 +83,7 @@ This enables the following:
 5. If Vagrant yells at you about not being able to finish configuration for the Microtik router (vm4), ignore it.
 6. Your environment is ready! You can shut it all off with `vagrant halt` and turn it on again with `vagrant up`. You can tinker with the settings of each VM as you deem necessary.
 
+## Login Info
 > [!tip]+ Login Info
 > - The Ubuntu and Kali boxes are configured with the same info as the Minihack
 > 	- **user:** sandbox

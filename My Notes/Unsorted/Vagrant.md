@@ -1,3 +1,9 @@
+---
+tags:
+  - IaC
+  - Vagrant
+date: 2025-02-25
+---
 # Vagrant
 > **Sources used:**
 > - tryhackme room | On-Premises IaC: https://tryhackme.com/room/onpremisesiac
@@ -61,4 +67,7 @@ end
 ## Tips when writing provisioning scripts
 - Make your scripts are [idempotent](../Terminology/idempotent.md). If ran more than once, the state of your environment should be the same as if you'd ran it only once.
 
+
+## Creating your own boxes
 [Vagrant - Creating Boxes](Vagrant%20-%20Creating%20Boxes.md)
+

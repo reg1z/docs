@@ -7,7 +7,7 @@ I am Regis, a Cyber Threat Intelligence Analyst at [Infophreak](https://infophre
 > - Setting up this website.
 > - Writing, writing, writing.
 > - Experimenting with [Zeek](https://zeek.org/) and [RITA](https://www.activecountermeasures.com/free-tools/rita/).
-> - ⚔️ Preparing for the [NCAE 2025](My%20Notes/NCAE%202025%20Preparation%20🛡️/NCAE%202025.md) Cybergames.
+> - ⚔️ Preparing for the [index](My%20Notes/NCAE%202025%20Preparation%20🛡️/index.md) Cybergames.
 > - Learning IaC (Infrastructure as Code) tools: [Vagrant](My%20Notes/Unsorted/Vagrant.md) and [Ansible](My%20Notes/Unsorted/Ansible.md).
 > - Learning [Continuous Integration and Delivery](My%20Notes/Unsorted/Continuous%20Integration%20and%20Delivery.md) with [GitHub Actions](https://docs.github.com/en/actions).
 

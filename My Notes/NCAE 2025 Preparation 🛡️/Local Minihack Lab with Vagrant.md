@@ -15,7 +15,7 @@ This enables the following:
 - Makes the user experience smoother.
 
 
-# Installation
+## Installation
 > [!tip]+ Dependencies ⭐
 >  You will need **Virtualbox**, **Vagrant**, and the **Ruby programming language**. I have included links / instructions for setting these up on each platform below.
 >  
@@ -23,19 +23,19 @@ This enables the following:
 > 
 > ![rubyinfo|475](../../assets/images/rubyinfo.png)
 
-## Windows
+### Windows
 - **Virtualbox** → [https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html](https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 - **Vagrant** → [https://developer.hashicorp.com/vagrant/install?product_intent=vagrant](https://developer.hashicorp.com/vagrant/install?product_intent=vagrant)
 - **Ruby** →[https://rubyinstaller.org/](https://rubyinstaller.org/)
 	- Or check out [https://www.ruby-lang.org/en/downloads/](https://www.ruby-lang.org/en/downloads/)
 
-## Linux
+### Linux
 - **Virtualbox** → Package manager, or [https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html](https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 - **Vagrant** → [https://developer.hashicorp.com/vagrant/install?product_intent=vagrant](https://developer.hashicorp.com/vagrant/install?product_intent=vagrant)
 - **Ruby** → Download it from your package manager
 	- Or check out [https://www.ruby-lang.org/en/downloads/](https://www.ruby-lang.org/en/downloads/)
 
-## MacOS
+### MacOS
 - **Virtualbox** → [https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html](https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
 - **Vagrant** → [https://developer.hashicorp.com/vagrant/install?product_intent=vagrant](https://developer.hashicorp.com/vagrant/install?product_intent=vagrant)
 - **Ruby** → You must have the Homebrew (**`brew`**) package manager. Install it with this command: `brew install ruby`
@@ -91,7 +91,7 @@ This enables the following:
 > - The Microtik router will have no existing configurations
 > 	- You will need to login with the username "admin" and provide your own password
 
-# To Start Fresh
+## To Start Fresh
 
 > [!tip]+ If you screw up the environment and want to wipe it clean...
 > > ***==NOTE: You shouldn't have to re-download your boxes after the first-time setup.==***

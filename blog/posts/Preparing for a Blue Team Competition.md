@@ -160,7 +160,7 @@ Work-in-Progress. To facilitate implementation of complex systems, teams might w
 #### Engagement Playbook
 Work-in-Progress. A series of consecutive steps to carry out upon connecting to the environment. These are roughly ordered, subject to change. Each member of the team might have their own specific playbook to carry out tasks assigned to them. ==Coordination is key. Make sure your actions don't conflict with others!==
 
-- Ensure `spice-vdagent` is configured on applicable hosts. We want shared clipboard functionality working.
+- Ensure `spice-vdagent` is configured on applicable hosts. We want shared clipboard functionality working.y
 - Copy/paste a user setup script to get user accounts/groups accessible as quick as possible?
 - Set up external Internet connection to Kali machine via the router. Initially, only the router will have external network access.
 - `ssh` into Kali machine and execute Ansible Playbooks to setup the environment.
@@ -176,6 +176,8 @@ Work-in-Progress. A series of consecutive steps to carry out upon connecting to 
 - The Black Team is usually there to help when needed.
 
 ## Fin
-That's all I have for now, but I'll be updating the blog as preparations continue. You can see my [NCAE 2025](../../My%20Notes/NCAE%202025%20Preparation%20🛡️/NCAE%202025.md) page for comprehensive links to my prepatory documents.
+That's all I have for now, but I'll be updating the blog as preparations continue. You can see my [index](../../My%20Notes/NCAE%202025%20Preparation%20🛡️/index.md) page for comprehensive links to my prepatory documents.
 
 There is *much* more knowledge I could cover in preparing for an event like this. But, as is always the case in security, to stay up-to-speed you'll always need to be learning. Security is never a gaurantee. All you can do build the best castle you can. Repair your walls as needed, and hope your enemies don't bring a trebuchet.
+
+

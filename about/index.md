@@ -1,8 +1,11 @@
 ---
+tags:
+date: 2025-02-27
 hide:
   - navigation
   - toc
 ---
+# About this Site
 
 This place is meant to give you a window into my head. And—well—to give *me* a window into it too. Apart from brain surgery, there are precious few alternatives.
 

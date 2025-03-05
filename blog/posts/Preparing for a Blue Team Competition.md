@@ -172,7 +172,7 @@ Work-in-Progress. A series of consecutive steps to carry out upon connecting to 
 - Setup syslog or other chosen network monitoring solution. Perhaps use a pre-built script/playbook after having accounted for all hosts.
 
 #### General Tips
-- When you have *lots of options* to pick from, don't consider *too many* all at once. You will experience [Choice Paralysis](../../My%20Notes/Unsorted/Choice%20Paralysis.md). At times it's best to pick a certain tool just to get experience with it. If it's not working out, go to the next thing on the list.
+- When you have *lots of options* to pick from, don't consider *too many* all at once. You will experience [Choice Paralysis](../../My%20Notes/Terminology/Choice%20Paralysis.md). At times it's best to pick a certain tool just to get experience with it. If it's not working out, go to the next thing on the list.
 - The Black Team is usually there to help when needed.
 
 ## Fin

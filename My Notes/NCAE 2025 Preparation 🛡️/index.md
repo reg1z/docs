@@ -46,6 +46,12 @@ A brainstormed list of potential attack vectors and corresponding defenses:
 
 - [System Hardening Ideas](System%20Hardening%20Ideas.md)
 
+### Specific Topics
+Niche topics that might be useful to know, depending on one's individual team responsibilities:
+
+- [Microtik RouterOS](Microtik%20RouterOS.md)
+
+---
 ### Misc.
 Most of these are either in-progress, incomplete, or disorganized:
 

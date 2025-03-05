@@ -2,6 +2,8 @@
 tags:
   - index
 date: 2025-02-28
+hide:
+  - tags
 ---
 # My Notes
 These are my notes. Browse to your heart's content.

@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+  - toc
+---
 # Home
 
 I am Regis, a Cyber Threat Intelligence Analyst at [Infophreak](https://infophreak.com/).

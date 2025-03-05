@@ -8,6 +8,8 @@ Learn `vim` motions, commands, and shortcuts in a user-friendly interactive envi
 ### OverTheWire Wargames
 *"The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games..."*
 
+And you don't even need to sign up for anything!
+
 [https://overthewire.org/wargames/](https://overthewire.org/wargames/)
 
 

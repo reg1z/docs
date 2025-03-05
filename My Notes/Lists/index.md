@@ -7,9 +7,9 @@ hide:
   - tags
 ---
 # Lists
-*For tracking varieties of **things** that do forms of **stuff**.*
+*For tracking varieties of **things** that might do forms of **stuff**.*
 
-Some of the links here might belong to lists that under different categories within my notes.
+Some links may belong to lists under different categories.
 
 - [Stuff I've Been Recommended](Stuff%20I've%20Been%20Recommended.md)
 - [Maybe Projects](Maybe%20Projects.md)

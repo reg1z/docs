@@ -44,6 +44,7 @@ systemctl restart <target-service.service>
 > ==**Unit**== → A resource that the system knows how to manage.
 
 **Types of Units**
+
 - `.service` → **Service Units**. Manages **daemons** and **processes**.
 - `.socket` → **Socket Units**. Manages **network sockets**.
 - `.target` → **Target Units**. Groups units together for **synchronization points**.

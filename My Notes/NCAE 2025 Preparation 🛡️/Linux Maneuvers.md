@@ -8,21 +8,26 @@ Specific techniques worthy of practice. Particularly when it comes to cybersecur
 ## Practice Maneuvers
 Techniques players might want to practice for game day.
 
-SSH
+**SSH**
+
 - SSH Proxying (Port Forwarding)
 - Copying files via `scp`
 	- recursive option
 
-Network Security Monitoring
+**Network Security Monitoring**
+
 - Packet Capture
 	- Wireshark, etc.
 - Packet Analysis
 	- Manually...
 	- Zeek
 
-SSL certificate authority
+**SSL certificate authority**
+
+- Are they providing the certs to us?
 
 ## Things that'll need to get done
+This list is currently non-exhaustive.
 
 - Int DNS
 - Ext DNS
@@ -30,7 +35,7 @@ SSL certificate authority
 	- backups
 - DNS
 
-Pair together those with complementary experiences. Those who know some of the above with those that know less.
+Pair those with complementary experiences together. Those who know some of the above with those that know less.
 
 ## What Regis is focusing on:
 
@@ -43,6 +48,7 @@ Pair together those with complementary experiences. Those who know some of the a
 	- config multiple other locations to send trash logs to.
 
 ## Other things we may want to do
+
 - If the desktop environment is available, disable auto-lock?
 - Check out that detection script from one of those gitlab repos. There was one that detects users logged into a tty (or something else similar) that shouldn't actually be logged in. We could have a script like that, which would then trigger an alert. If that alert gets triggered, we could perhaps send automatic responses to whatever process/shell that user is running on. Something like spamming out their console with "gitrektgitrektgitrekt", wiping any artifacts they've generated, shutting down their session/connections, etc.
 - Timers

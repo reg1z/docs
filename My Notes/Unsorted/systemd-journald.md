@@ -18,6 +18,7 @@ Use the `journalctl` command to query these logs.
 - `journalctl -f` → View logs in real-time.
 
 ## Syslog compatibility
+
 - Logs collected by journald can be imported into [[syslog]] with the `/run/systemd/journal/syslog` socket.
 - You can also enable a setting within `journald.conf` to automatically forward them to syslog.
 

@@ -26,7 +26,7 @@ systemctl restart <target-service.service>
 
 > [!list]+ Related Notes
 > - [systemd-journald](systemd-journald.md)
-> - [systemd-timers](My%20Notes/Unsorted/systemd-timers.md)
+> - [systemd-timers](systemd-timers.md)
 > - [systemd_studygroup](../Works-in-Progress/systemd_studygroup.md)
 
 ## Basic Concepts

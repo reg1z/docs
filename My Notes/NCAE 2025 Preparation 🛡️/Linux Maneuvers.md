@@ -3,7 +3,7 @@ Specific techniques worthy of practice. Particularly when it comes to cybersecur
 
 ## Useful Maneuvers
 
-- Clearing memory caches with [Linux Drop Caches](Linux%20Drop%20Caches.md)
+- Clearing memory caches with [Linux Drop Caches](../Unsorted/Linux%20Drop%20Caches.md)
 
 ## Practice Maneuvers
 Techniques players might want to practice for game day.
@@ -38,7 +38,7 @@ Pair together those with complementary experiences. Those who know some of the a
 	- learning systemd
 		- config [systemd-journald](../Unsorted/systemd-journald.md)
 		- [systemd-timers](../Unsorted/systemd-timers.md)
-	- config [rsyslog](My%20Notes/Unsorted/rsyslog.md) 
+	- config [rsyslog](../Unsorted/rsyslog.md)
 	- config them to hide logs in a location deep in the linux filesystem
 	- config multiple other locations to send trash logs to.
 

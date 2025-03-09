@@ -26,6 +26,8 @@ These are my notes for helping **Blue Teams** prepare for the [NCAE Cyber Games]
 ## Notes
 
 - [Linux Maneuvers](Linux%20Maneuvers.md) → Place for brain-dumps and random considerations that don't seem to fit anywhere else. Includes some skills that *might* be important for one to know, depending on their role in a team.
+- [Team Strategy](My%20Notes/Unsorted/Team%20Strategy.md) → Map of our strat
+- [NCAE AI Prompt](NCAE%20AI%20Prompt.md) → AI prompt to put at the start of an LLM conversation (chatgpt, claude, etc). Will give context matching what is publicly known about the competition.
 
 ### Core Linux Knowledge
 Notes I've taken on modern Linux systems during competition prep.
@@ -47,7 +49,7 @@ Notes from NCAE's Sandbox Tutorial Videos. These use the Mini Hack environment t
 
 ## Preparing a Game Plan
 *Players might find this information useful when developing a strategy.*
-
+**
 ### SPICE Configuration
 **Copy/paste and automatic guest screen resizing are not available via the default in-browser remote desktop experience NCAE provides.** If you want these features, you should make sure you know how to set them up:
 

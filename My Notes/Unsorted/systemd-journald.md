@@ -3,6 +3,7 @@ tags:
   - linux
   - monitoring
   - systemd
+  - logging
 date: 2025-03-07
 ---
 # systemd-journald
@@ -17,10 +18,13 @@ Use the `journalctl` command to query these logs.
 - `journalctl -b` → View logs since the last boot.
 - `journalctl -f` → View logs in real-time.
 
-## Syslog compatibility
+## Syslog / rsyslog compatibility
 
-- Logs collected by journald can be imported into [[syslog]] with the `/run/systemd/journal/syslog` socket.
+- Logs collected by journald can be imported into [syslog](syslog.md) with the `/run/systemd/journal/syslog` socket. Typically [[rsyslog]] will be used.
 - You can also enable a setting within `journald.conf` to automatically forward them to syslog.
+
+### Preserving journald metadata
+When importing j
 
 
 ## Notable locations

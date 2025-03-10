@@ -5,6 +5,7 @@ date: 2025-03-09
 ---
 # NCAE AI Prompt
 
+```markdown
 For the duration of this conversation, please keep the following information in mind.
 
 I seek assistance on configuring a particular network environment. This environment is designed for a blue team competition. We are the blue team. The goal is for us, as the blue team, to minimize attack surface, monitor, and prevent threats. We are scored on certain criteria such as the uptime and availability of services with the scoring infrastructure over the course of the 7-hour competition.
@@ -84,3 +85,4 @@ I MIGHT have attached an image of the network topology, but may not have. Regard
 		- There could be other hosts managed by the Black Team here now that are a part of the competition, but we have not been given this information.
 
 Thank you for your consideration. I deeply appreciate your efforts!
+```

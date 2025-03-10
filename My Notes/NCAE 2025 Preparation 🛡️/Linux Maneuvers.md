@@ -48,7 +48,7 @@ Pair those with complementary experiences together. Those who know some of the a
 		- use the **imjournal** module so rsyslog can read journald logs directly, preserving metadata.
 	- config them to hide logs in a location deep in the linux filesystem
 	- config multiple other locations to send trash logs to.
-	- config [logrotate](My%20Notes/Unsorted/logrotate.md) (?)
+	- config [logrotate](../Unsorted/logrotate.md) (?)
 
 ## Other things we may want to do
 

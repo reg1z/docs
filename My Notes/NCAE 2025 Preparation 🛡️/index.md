@@ -26,7 +26,7 @@ These are my notes for helping **Blue Teams** prepare for the [NCAE Cyber Games]
 ## Notes
 
 - [Linux Maneuvers](Linux%20Maneuvers.md) → Place for brain-dumps and random considerations that don't seem to fit anywhere else. Includes some skills that *might* be important for one to know, depending on their role in a team.
-- [Team Strategy](My%20Notes/Unsorted/Team%20Strategy.md) → Map of our strat
+- [Team Strategy](../Unsorted/Team%20Strategy.md) → Map of our strat
 - [NCAE AI Prompt](NCAE%20AI%20Prompt.md) → AI prompt to put at the start of an LLM conversation (chatgpt, claude, etc). Will give context matching what is publicly known about the competition.
 
 ### Core Linux Knowledge

@@ -10,6 +10,7 @@ date: 2025-03-07
 ## File Locations
 
 ### Configs
+⭐ [rsyslog configuration documentation](https://www.rsyslog.com/doc/configuration/index.html)
 
 - `/etc/rsyslog.conf` → Main config file
 - `/etc/rsyslog.d/` → Dir. containing additional config files with the `.conf` extension
@@ -103,3 +104,26 @@ Modules are plugin-like components that extend the functionality of the rsyslog 
 > - **fmhash** → Provides hash functions for message content.
 > - **fmhttp** → HTTP-related functions for templates.
 
+
+## Examples
+
+### Recieving
+```bash
+module(load="imudp")
+input(type="imudp" port="514")
+
+module(load="imtcp")
+input(type="imtcp" port="514")
+```
+
+### Forwarding
+
+UDP
+```bash
+*.* @192.168.56.10:514        # Forward ALL logs via UDP
+```
+
+TCP
+```bash
+*.* @@192.168.56.10:514       # Forward forward ALL logs via TCP
+```

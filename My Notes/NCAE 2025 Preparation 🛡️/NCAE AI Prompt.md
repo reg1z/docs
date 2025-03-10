@@ -22,6 +22,9 @@ I MIGHT have attached an image of the network topology, but may not have. Regard
 **Other Details:**
 
 - The environment is hosted on a proxmox server we will be cloud-connected to. All endpoints are hosted on this proxmox instance.
+- Each host will have no more than 2GB of ram.
+- The Microtik router has only 1GB of ram.
+- Each host will have no more than a single processor core/thread.
 - We have noVNC access to all hosts.
 - We have SPICE access to all hosts except the Microtik Router.
 - "t" in the screenshot is a variable representing our team number, which will comprise some of our network/host addresses. .

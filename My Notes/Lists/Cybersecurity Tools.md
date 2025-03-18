@@ -1,10 +1,17 @@
 > [!tip]+ Related + Sources
 > - [THM Room - Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools)
 
+## General Tools
+
+### Sites & PWAs
+
+#### [Cyberchef](https://cyberchef.org/)
+
+---
 
 ## Threat Intelligence
-⭐ **CTI** → Cyber Threat Intelligence
-⭐ **PWA** → Progressive Web App
+> ⭐ **CTI** → Cyber Threat Intelligence
+> ⭐ **PWA** → Progressive Web App
 
 ### Websites & PWAs
 #### [urlscan.io](https://urlscan.io/)
@@ -36,14 +43,15 @@ Open source, self-hostable platform for managing "\[CTI] knowledge and observabl
 #### [MISP](https://www.misp-project.org/)
 
 
+---
+## Network Security and Traffic Analysis
 
-## General Tools
+### Software
 
-### Sites & PWAs
+#### [Brim](https://www.brimdata.io/)
+Log file + packet capture analysis akin to Wireshark and Zeek. Great when dealing with A LOT of logs.
 
-#### [Cyberchef](https://cyberchef.org/)
-
-
+---
 
 ## Steganography
 
@@ -57,10 +65,4 @@ Open source, self-hostable platform for managing "\[CTI] knowledge and observabl
 - Spectogram Viewers
 	- Audacity, etc.
 
-## Network Security and Traffic Analysis
-
-### Software
-
-#### [Brim](https://www.brimdata.io/)
-Log file + packet capture analysis akin to Wireshark and Zeek. Great when dealing with A LOT of logs.
 

@@ -1,3 +1,9 @@
+---
+tags:
+  - terminology
+  - psychology
+date: 2025-02-25
+---
 # Choice Paralysis
 
 > [!quote] [Wikipedia - Overchoice](https://en.wikipedia.org/wiki/Overchoice)

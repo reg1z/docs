@@ -38,7 +38,7 @@ This list is currently non-exhaustive.
 
 Pair those with complementary experiences together. Those who know some of the above with those that know less.
 
-## What Regis is focusing on:
+## What I've focused on:
 
 - Setting up logs
 	- learning systemd

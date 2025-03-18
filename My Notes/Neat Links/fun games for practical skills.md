@@ -1,9 +1,14 @@
 # fun games for practical skills
 ## Command-line
-### vim-racer
+### `vim`
+#### vim-racer
 Learn `vim` motions, commands, and shortcuts in a user-friendly interactive environment. Compare your scores to those on the leaderboard to learn hidden techniques!
 
 [https://vim-racer.com/](https://vim-racer.com/) 
+
+#### vim-adventures
+
+[https://vim-adventures.com](https://vim-adventures.com)
 
 ### OverTheWire Wargames
 *"The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games..."*

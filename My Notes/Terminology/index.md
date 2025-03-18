@@ -1,6 +1,7 @@
 ---
 tags:
   - index
+  - terminology
 date: 2025-03-05
 hide:
   - tags

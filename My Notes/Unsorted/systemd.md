@@ -7,6 +7,10 @@ date: 2025-02-25
 # systemd
 *Systemd is the most popular "init" system in modern Linux environments. An init process is the first process ran after boot (PID 1). It manages and spawns most other processes and services}
 
+> [!tip]+ Sources
+
+⭐ Unit files within `/etc/systemd/system` should generally have permissions of `0644`
+
 ⭐ After changes to configurations, remember to run:
 
 ```bash

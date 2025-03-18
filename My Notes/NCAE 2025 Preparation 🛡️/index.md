@@ -49,7 +49,7 @@ Notes from NCAE's Sandbox Tutorial Videos. These use the Mini Hack environment t
 
 ## Preparing a Game Plan
 *Players might find this information useful when developing a strategy.*
-**
+
 ### SPICE Configuration
 **Copy/paste and automatic guest screen resizing are not available via the default in-browser remote desktop experience NCAE provides.** If you want these features, you should make sure you know how to set them up:
 
@@ -66,8 +66,8 @@ A brainstormed list of potential attack vectors and corresponding defenses:
 ### Misc.
 Most of these are either in-progress, incomplete, or disorganized:
 
-- [Quickdraw Notes](Quickdraw%20Notes.md)
-- [Other Tools to Consider](Other%20Tools%20to%20Consider.md)
+- [Quickdraw Notes](deprecated/Quickdraw%20Notes.md)
+- [Other Tools to Consider](deprecated/Other%20Tools%20to%20Consider.md)
 - [NCAE misc](Tutorial%20Video%20Notes/NCAE%20misc.md)
 - [NCAE-minihack CentOS](Tutorial%20Video%20Notes/NCAE-minihack%20CentOS.md)
 - [Example Scripts](Scripts/Example%20Scripts.md)

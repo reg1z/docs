@@ -1,6 +1,6 @@
 ## Challenges and CTFs
 - [NCAE-minihack CentOS](NCAE-minihack%20CentOS.md)
-- [Quickdraw Notes](../Quickdraw%20Notes.md)
+- [Quickdraw Notes](../deprecated/Quickdraw%20Notes.md)
 
 Specific Tools
 - SSH

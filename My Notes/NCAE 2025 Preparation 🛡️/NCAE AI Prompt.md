@@ -48,7 +48,7 @@ I MIGHT have attached an image of the network topology, but may not have. Regard
 			- OS: Kali version 2021.1
 		- Shell / FTP VM:
 			- IP: 172.18.14.t
-			- OS: UNKNOWN Linux Distro
+			- OS: Rocky Linux 8
 			- Services: UNKNOWN.
 	- **Internal Network** (IP range 192.168.t.0/24)
 		- Internal Kali VM:

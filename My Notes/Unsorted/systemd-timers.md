@@ -7,7 +7,10 @@ date: 2025-03-07
 # systemd-timers
 A modern alternative to `cron`.
 
-🌠 Each timer unit is typically paired with a matching service unit that it activates. For example, `backup.timer` would trigger `backup.service`.
+**Pair:**
+`.timer` ←→ `.service`
+
+*🌠 Each timer unit is typically paired with a matching service unit that it activates. For example, `backup.timer` would trigger `backup.service`.*
 
 > [!question]+ Why Use Timer Units Instead of Cron?
 > 

@@ -13,4 +13,4 @@ Tools
 - strings
 
 ## Images
-- [PNG Stego](My%20Notes/Unsorted/PNG%20Stego.md)
+- [PNG Stego](PNG%20Stego.md)

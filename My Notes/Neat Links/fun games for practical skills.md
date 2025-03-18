@@ -7,6 +7,7 @@ Learn `vim` motions, commands, and shortcuts in a user-friendly interactive envi
 [https://vim-racer.com/](https://vim-racer.com/) 
 
 #### vim-adventures
+*"Learn VIM while playing a game!"*
 
 [https://vim-adventures.com](https://vim-adventures.com)
 

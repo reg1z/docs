@@ -70,4 +70,3 @@ Most of these are either in-progress, incomplete, or disorganized:
 - [Other Tools to Consider](deprecated/Other%20Tools%20to%20Consider.md)
 - [NCAE misc](Tutorial%20Video%20Notes/NCAE%20misc.md)
 - [NCAE-minihack CentOS](Tutorial%20Video%20Notes/NCAE-minihack%20CentOS.md)
-- [Example Scripts](Scripts/Example%20Scripts.md)

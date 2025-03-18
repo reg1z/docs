@@ -1,5 +1,9 @@
-> [!tip]+ Related + Sources
+> [!tip]- Related + Sources
 > - [THM Room - Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools)
+
+> [!info]- Acronyms
+> **CTI** → Cyber Threat Intelligence
+> **PWA** → Progressive Web App
 
 ## General Tools
 
@@ -10,8 +14,6 @@
 ---
 
 ## Threat Intelligence
-> ⭐ **CTI** → Cyber Threat Intelligence
-> ⭐ **PWA** → Progressive Web App
 
 ### Websites & PWAs
 #### [urlscan.io](https://urlscan.io/)

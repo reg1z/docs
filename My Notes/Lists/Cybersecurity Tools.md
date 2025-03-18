@@ -2,8 +2,8 @@
 > - [THM Room - Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools)
 
 > [!info]- Acronyms
-> **CTI** → Cyber Threat Intelligence
-> **PWA** → Progressive Web App
+> - **CTI** → Cyber Threat Intelligence
+> - **PWA** → Progressive Web App
 
 ## General Tools
 
@@ -13,24 +13,26 @@
 
 ---
 
-## Threat Intelligence
+## OSINT & Threat Intelligence
 
 ### Websites & PWAs
 #### [urlscan.io](https://urlscan.io/)
 
-#### [abuse.ch](https://abuse.ch/)
 
-- MalwareBazaar
-- FeodoTracker
-- SSL Blacklist
-- URLhaus
-- Threatfox
+#### [abuse.ch](https://abuse.ch/)
+Hosts several platforms useful for gathering threat intelligence.
+
+- [MalwareBazaar](https://bazaar.abuse.ch) → Browse and share malware samples
+- [FeodoTracker](https://feodotracker.abuse.ch) → *"..a project of abuse.ch with the goal of sharing **botnet C&C servers** associated with Dridex, Emotet (aka Heodo), TrickBot, QakBot (aka QuakBot / Qbot) and BazarLoader (aka BazarBackdoor)..."*
+- [SSL Blacklist](https://sslbl.abuse.ch) → *"...a project of abuse.ch with the goal of detecting malicious SSL connections, by identifying and blacklisting SSL certificates used by botnet C&C servers. In addition, SSLBL identifies JA3 fingerprints that helps you to detect & block malware botnet C&C communication on the TCP layer..."*
+- [URLhaus](https://urlhaus.abuse.ch) → Browse and share malicious URLs used for malware distribution
+- [Threatfox](https://threatfox.abuse.ch) → IOC Database
 
 #### [PhishTool](https://www.phishtool.com/)
 
 #### [Cisco Talos Intelligence](https://talosintelligence.com/)
 
-### Software & "Platforms"
+### Software
 
 #### [JA3](https://github.com/salesforce/ja3) / [JA4+](https://github.com/FoxIO-LLC/ja4)
 
@@ -39,7 +41,7 @@
 - **JA4+** → *"A suite of network fingerprinting methods by FoxIO that are easy to use and easy to share..."* The suc
 
 #### [OpenCTI](https://github.com/OpenCTI-Platform/opencti)
-Open source, self-hostable platform for managing "\[CTI] knowledge and observables..."
+Open source, self-hostable **platform** for managing "\[CTI] knowledge and observables..."
 
 
 #### [MISP](https://www.misp-project.org/)

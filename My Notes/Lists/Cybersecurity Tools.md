@@ -5,6 +5,12 @@
 > - **CTI** → Cyber Threat Intelligence
 > - **PWA** → Progressive Web App
 
+## Resource Lists
+Other lists containing useful tools, resources, and more for cyber disciplines
+
+### [cybersources.site](https://cybersources.site/)
+
+
 ## General Tools
 
 ### Sites & PWAs
@@ -52,8 +58,20 @@ Open source, self-hostable **platform** for managing "\[CTI] knowledge and obser
 
 ### Software
 
+#### [Traffic Analysis with Wireshark](../Unsorted/Traffic%20Analysis%20with%20Wireshark.md)
+
 #### [Brim](https://www.brimdata.io/)
 Log file + packet capture analysis akin to Wireshark and Zeek. Great when dealing with A LOT of logs.
+
+---
+
+## Endpoint Security
+
+### [OSQuery](https://osquery.io/)
+Often used in tandem with **Kolide Fleet**.
+
+
+
 
 ---
 

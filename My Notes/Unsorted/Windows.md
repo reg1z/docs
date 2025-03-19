@@ -18,11 +18,11 @@ date: 2025-03-18
 ## Child Notes
 
 ### Powershell
-- 🌠 [From Bash to PowerShell](My%20Notes/Unsorted/From%20Bash%20to%20PowerShell.md) → Mapping typical `bash` commands to their `pwsh` (PowerShell) equivalents.
+- 🌠 [From Bash to PowerShell](From%20Bash%20to%20PowerShell.md) → Mapping typical `bash` commands to their `pwsh` (PowerShell) equivalents.
 
 ### Windows Core
-- [Windows Event Logs](My%20Notes/Unsorted/Windows%20Event%20Logs.md)
-- [Windows Sysinternals](My%20Notes/Unsorted/Windows%20Sysinternals.md) → A suite of 70+ tools for digging deep into the Windows system.
+- [Windows Event Logs](Windows%20Event%20Logs.md)
+- [Windows Sysinternals](Windows%20Sysinternals.md) → A suite of 70+ tools for digging deep into the Windows system.
 
 
 ## In Progress

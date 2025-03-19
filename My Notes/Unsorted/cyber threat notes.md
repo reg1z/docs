@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - cybersecurity
 date: 2025-03-18
 ---
 # cyber threat notes

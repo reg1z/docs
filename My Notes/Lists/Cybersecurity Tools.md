@@ -38,6 +38,16 @@ Hosts several platforms useful for gathering threat intelligence.
 
 #### [Cisco Talos Intelligence](https://talosintelligence.com/)
 
+#### [Robtex](https://www.robtex.com/)
+> *"Robtex is used for various kinds of research of IP numbers, Domain names, etc"*
+
+#### [VirusTotal](https://www.virustotal.com)
+
+
+#### [Hybrid-Analysis](https://www.hybrid-analysis.com/)
+> *"This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique **Hybrid Analysis** technology."*
+
+
 ### Software
 
 #### [JA3](https://github.com/salesforce/ja3) / [JA4+](https://github.com/FoxIO-LLC/ja4)

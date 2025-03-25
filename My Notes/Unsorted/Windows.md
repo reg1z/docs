@@ -23,6 +23,7 @@ date: 2025-03-18
 ### Windows Core
 - [Windows Event Logs](Windows%20Event%20Logs.md)
 - [Windows Sysinternals](Windows%20Sysinternals.md) → A suite of 70+ tools for digging deep into the Windows system.
+	- 
 
 
 ## In Progress

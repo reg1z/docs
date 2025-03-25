@@ -6,10 +6,14 @@ date: 2025-03-21
 ---
 # Modern Web Browsers
 
-> [!abstract]+ Related
+> [!tip]+ Links & Sources
 > - Wikipedia
 > 	- [History of the Web Browser](https://en.wikipedia.org/wiki/History_of_the_web_browser)
 > 	- [List of Web Browsers](https://en.wikipedia.org/wiki/List_of_web_browsers)
+
+Related Notes
+
+- [Browsers with Vim Motions](Browsers%20with%20Vim%20Motions.md)
 
 ## Browser Engines
 
@@ -24,6 +28,8 @@ Most to least prevalent **Browser Engines**
 	- Chrome
 	- Edge
 	- Brave
+	- Lesser-known
+		- Qutebrowser
 2. Webkit → Safari
 	- downstream engines
 		- qt webkit
@@ -39,7 +45,6 @@ Honorable Mentions
 - Goanna ([wikipedia](<https://en.wikipedia.org/wiki/Goanna_(software)>))
 	- Pale Moon Browser
 	- Basilisk Browser
-- 
 
 
 

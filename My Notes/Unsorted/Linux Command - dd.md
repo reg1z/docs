@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - linux/commands
 date: 2025-03-23
 ---
 # Linux Command - `dd`

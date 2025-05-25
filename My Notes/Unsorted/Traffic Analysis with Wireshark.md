@@ -1,8 +1,8 @@
 ---
 tags:
   - cybersecurity
-  - networks
   - traffic-analysis
+  - networking
 date: 2025-03-18
 ---
 # Traffic Analysis with Wireshark

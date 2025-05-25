@@ -5,7 +5,7 @@ date: 2025-02-28
 hide:
   - tags
 ---
-# My Notes
+# Navigating These Notes
 These are my notes. Browse to your heart's content.
 
 Want an idea on where to start?

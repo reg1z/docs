@@ -1,9 +1,10 @@
 ---
 tags:
+  - map
   - cybersecurity
 date: 2025-03-18
 ---
-# Cybersecurity Map
+# Cybersecurity
 Work-in-Progress top-level map of content
 
 ## Blue Team

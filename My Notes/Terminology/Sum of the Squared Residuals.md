@@ -11,6 +11,8 @@ More commonly known as the **Residual Sum of Squares** or **RSS**...
 
 The **Sum of Squared Residuals** is the total, across every data point in a dataset, of the squared difference between the ground-truth target value (the actual observed outcome from your training labels) and the model’s predicted output for that input.
 
+Keep in mind that a **Residual** = ObservedVal - PredictedVal
+
 ## Formula
 
 $$

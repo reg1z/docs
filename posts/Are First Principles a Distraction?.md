@@ -2,7 +2,7 @@
 tags:
   - cybersecurity
   - llm
-date: 2025-05-28
+date: 2025-06-01
 ---
 # Are First Principles a Distraction?
 I'd like to explore the inherent uncertainty and indecisiveness many are grappling with in balancing fundamental understanding versus the immediate results enabled by AI tools. For clarity's sake, know that in this post I use the terms "first principles" and "fundamentals" interchangeably.

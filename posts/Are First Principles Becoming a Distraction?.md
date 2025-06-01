@@ -4,7 +4,7 @@ tags:
   - llm
 date: 2025-06-01
 ---
-# Are First Principles a Distraction?
+# Are First Principles Becoming a Distraction?
 I'd like to explore the inherent uncertainty and indecisiveness many are grappling with in balancing fundamental understanding versus the immediate results enabled by AI tools. For clarity's sake, know that in this post I use the terms "first principles" and "fundamentals" interchangeably.
 
 Lifelong learning is essential for a lasting infosec career. For the past year or so, as I've worked toward expanding my knowledge and skill set, I've dealt with a persistent internal dilemma.
